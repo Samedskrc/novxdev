@@ -1,0 +1,27 @@
+input: .
+output: .retype
+url: https://novxdev.netlify.app
+
+brand:
+  title: "NovxDev"
+  label: "Teknoloji Blogu"
+
+navigation:
+  - text: "Ana Sayfa"
+    link: index.md
+  - text: "Hakkımda"
+    link: hakkimda.md
+  - text: "Blog"
+    link: blog.md
+  - text: "İletişim"
+    link: iletisim.md
+
+footer:
+  copyright: "© 2024 NovxDev - Tüm hakları saklıdır"
+  links:
+    - text: "GitHub"
+      link: https://github.com/samedskrc
+    - text: "Instagram" 
+      link: https://instagram.com/samedskrc
+    - text: "Email"
+      link: mailto:samedskrc@gmail.com
